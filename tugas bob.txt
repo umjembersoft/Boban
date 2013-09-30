@@ -1,0 +1,57 @@
+GET / HTTP/1.1
+
+_______________________________________________________________________________
+Host: bobanbee.blogspot.com
+//nama alamat web
+______________________________________________________________________________
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:10.0.2) Gecko/20100101 Firefox/10.0.2
+//versi windows dan tipe mozila
+________________________________________________________________________-
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+//meneria sever html
+
+Accept-Language: en-us,en;q=0.5
+//meneria bahasa
+
+Accept-Encoding: gzip, deflate
+//pengkodean  gzip,delat,http
+
+Connection: keep-alive
+//menghubungkan ke saver
+
+Cookie: __unam=5458c72-141201547e9-23932a51-1
+//rangkaian text yang disimpan pada komputer
+
+HTTP/1.1 200 OK
+
+
+Content-Type: text/html; charset=UTF-8
+//tipe tulisan berupa text
+
+Expires: Sat, 28 Sep 2013 04:04:09 GMT
+//tgl terahir dibuka
+
+Date: Sat, 28 Sep 2013 04:04:09 GMT
+//tagl saat web dibuka
+
+Cache-Control: private, max-age=0
+//pengontrol cache
+
+Last-Modified: Tue, 04 Jun 2013 19:02:11 GMT
+//tgl terahir di edit
+
+Etag: "be8b59ac-7144-4c0f-b2f2-1f0a2bb33bbe"
+//bhsa computer alamat web
+
+Content-Encoding: gzip
+//pengkodean
+
+X-Content-Type-Options: nosniff
+//untuk pengaturan
+
+X-XSS-Protection: 1; mode=block
+//produksi
+
+Content-Length: 660424
+Server: GSE
+Alternate-Protocol: 80:quic
